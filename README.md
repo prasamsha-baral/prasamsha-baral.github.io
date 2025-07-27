@@ -1,3 +1,5 @@
-# sumit-poudel.github.io <hr>
+# my porfolio website
 
-[give it a try.](https://sumit-poudel.com.np)
+[fork of sumit dai](github.com/sumit-poudel) <hr>
+
+[give it a try.](https://prasamsha-baral.com.np)
